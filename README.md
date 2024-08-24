@@ -25,15 +25,15 @@ Instrucciones sobre cómo usar el proyecto:
 1. Ejecuta la aplicación.
 2. Accede a la aplicación en tu navegador.
 
+   ![Captura de pantalla 2024-08-23 193046](https://github.com/user-attachments/assets/ae21d732-d4b8-4ccf-9e16-4c978824d774)
+
+
 ## Características
 
 - **Funcionalidad 1:** Encripta textos.
 - **Funcionalidad 2:** Desencripta textos.
 - **Funcionalidad 3:** Permite copiar textos encriptados y desencriptados. 
 
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
 
 ## Contacto
 
