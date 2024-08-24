@@ -7,8 +7,7 @@ El proyecto es un encriptador de contraseñas en el cual se coloca la frase que 
 1. [Instalación](#instalación)
 2. [Uso](#uso)
 3. [Características](#características)
-4. [Licencia](#licencia)
-5. [Contacto](#contacto)
+4. [Contacto](#contacto)
 
 ## Instalación
 
